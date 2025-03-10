@@ -4,7 +4,7 @@ using namespace std;
 float luas, panjang, lebar; //var global
 
 void inputData(){}
-cout <<"masukan panjangnya"
+cout <<"masukan panjangnya"git ini
 cin >> panjang;
 cout  << "masukan lebarnya"
 cin >> lebar;
